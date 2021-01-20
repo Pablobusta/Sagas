@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 ,Rambo Acorralado 1982.mkv
 http://5.9.94.182/master/sagas/RAMBO/Rambo%20Acorralado%201982.mkv
 #EXTINF:-1 ,Rambo Acorralado Parte II (1985)
