@@ -266,3 +266,21 @@ http://5.9.94.182/master/sagas/X-MEN/X-men%202014%20days%20of%20future%20past%20
 #EXTINF:-1 ,X-men Apocalypse (2016)
 http://5.9.94.182/master/sagas/X-MEN/X-men%202016%20apocalypse.mp4
 #EXTINF:-1 ,X-men Dark Phoenix (2019)
+
+#EXTINF:-1 ,Thor
+http://51.77.66.14/Marvel/Thor/Thor%201.mkv
+#EXTINF:-1 ,Thor II - Un Mundo Oscuro
+http://51.77.66.14/Marvel/Thor/Thor%202%20-%20Un%20Mundo%20Oscuro.mkv
+#EXTINF:-1 ,Thor III - Ragnarok
+http://51.77.66.14/Marvel/Thor/Thor%203%20-%20Ragnarok.mkv
+
+#EXTINF:-1 ,Sharknado
+http://144.217.180.154/SERVIDOR_2/SHARKNADO.mp4
+#EXTINF:-1 ,Sharknado 2 El Segundo
+http://144.217.180.154/SERVIDOR_2/SHARKNADO%202%20EL%20SEGUNDO.mp4
+#EXTINF:-1 ,Sharknado 3 Oh Hell
+http://144.217.180.154/SERVIDOR_2/SHARKNADO%203%20OH%20HELL%20NO.mp4
+#EXTINF:-1 ,Sharknado 4 El Despertar
+http://144.217.180.154/SERVIDOR_2/SHARKNADO%204%20EL%20DESPERTAR.mp4
+#EXTINF:-1 ,Sharknado Enjambre Global
+http://144.217.180.154/SERVIDOR_2/SHARKNADO%205%20ENJAMBRE%20GLOBAL.mp4
